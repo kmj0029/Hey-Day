@@ -7,9 +7,9 @@ Hey day is all about uniting the Auburn family, War Eagle!
 
 ## To use:
 
-Make the program executable with $ chmod +x
+Make the program executable with ``` $ chmod +x ```
 
-Then input ./Hey_Day_Bonus.sh to begin the program!
+Then input ``` ./Hey_Day_Bonus.sh ``` to begin the program!
 
 
 ## Link to Hey Day history:
