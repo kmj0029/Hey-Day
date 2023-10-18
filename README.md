@@ -13,4 +13,4 @@ Then input ./Hey_Day_Bonus.sh to begin the program!
 
 
 ## Link to Hey Day history:
-https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_009870125.1/
+https://sga.auburn.edu/hey-day/
