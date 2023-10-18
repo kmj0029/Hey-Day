@@ -1,5 +1,5 @@
 # Hey-Day
-## Made to commemorate Hey Day at Auburn University
+## Hey Day at Auburn University
 Hey day is a long honored Auburn tradition, dating back to the end of WWII!
 Students, faculty, and staff can receive name tags to write their names on, which encourages us all to greet each other!
 Hey day is all about uniting the Auburn family, War Eagle!
